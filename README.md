@@ -9,7 +9,7 @@ Welcome to **FunFusion2**, a compact and exciting game collection that features 
 - 🧠 **Quick & Addictive**: Perfect for short breaks or extended play sessions, with easy-to-learn mechanics.
 
 ## Installation
-1. **Download the game** from the [official website](https://funfusion-2.netlify.app/) or [direct link](https://play.google.com/apps/testing/com.rsdcreation.algolearn).
+1. **Play the game** from the [official website](https://funfusion-2.netlify.app/) or **download the game from** [direct link](https://play.google.com/apps/testing/com.rsdcreation.algolearn).
 2. **Open Browser** and paste the given link.
 3. **Accept** the invitation link.
 
@@ -19,10 +19,7 @@ Welcome to **FunFusion2**, a compact and exciting game collection that features 
 - Have fun and challenge your friends to beat your scores!
 
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
-For any questions or feedback, reach out at [support@funfusion2.com](mailto:support@funfusion2.com).
+For any questions or feedback, reach out at [poudeldarshan44@gmail.com](mailto:poudeldarshan44@gmail.com).
 
 Enjoy the fun-packed experience with **FunFusion2**! 🎉
